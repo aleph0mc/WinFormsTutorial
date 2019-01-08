@@ -30,4 +30,7 @@ Timer, BackGroudWorker, FileSystemWatcher, Process
 Drag & Drop (IMPORTANT: DragDrop does not work if app is run as ADMINISTRATOR)
   
 **WinFormsTreeViewAndListViewSol**  
-TreeView, ListView
+TreeView, ListView  
+  
+**WinFormsXmlDemoSol**  
+Linq to Xml, Xsd and Xml validation
