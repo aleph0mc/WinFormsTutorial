@@ -45,7 +45,7 @@ namespace WinFormsTreeViewAndListView
                 new Employee {EmpId=7, EmpName= "E7",  Deptid=2 },
                 new Employee {EmpId=8, EmpName= "E8",  Deptid=3 },
                 new Employee {EmpId=9, EmpName= "E9",  Deptid=2 },
-                new Employee {EmpId=10, EmpName= "E10",  Deptid=1 },
+                new Employee {EmpId=10, EmpName= "E10", Deptid=1 },
             };
         }
     }
