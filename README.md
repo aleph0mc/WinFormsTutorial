@@ -27,7 +27,7 @@ Resource files, Settings, NotifyIcon, ContextMenuStrip
 Timer, BackGroudWorker, FileSystemWatcher, Process  
   
 **WinFormsDragAndDropSol**  
-Drag & Drop (IMPORTANT: DragDrop does not work if app is run as ADMINISTRATOR)
+Drag & Drop (IMPORTANT: Drag&Drop does not work if app is run as ADMINISTRATOR)
   
 **WinFormsTreeViewAndListViewSol**  
 TreeView, ListView  
